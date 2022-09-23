@@ -17,6 +17,8 @@ Aplique los modelos de arboles de decision, bosques aleatorios, KNNeighbor y SVM
 Usando **Pipelin** logro mejorar el recall en el modelo **SVC**
 
 # Resultado final
-<img src="./img/output.png">
+<img src="./img/output.png"> <br>
 Vemos que el mejor modelo es SVC
 
+## Nota:
+Toda la parte de EDA y modelamiento se encuentra documentado, pero el resumen donde solo muestro el EDA y el modelo que use y aplique para el caso de E-commer.test lo coloque en el PDF informe_HuarcayaTacasEdward
